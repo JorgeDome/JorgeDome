@@ -1,4 +1,5 @@
 - 👋 Hola, soy @JorgeDome
 - 👀  Estoy interesado en conseguir trabajo, de programador.
-- 🌱  Tengo conocimientos en, JS y tengo conocimento en HTML, CSS.   
+- 🌱  Tengo conocimientos en, JavaScripts,HTML, CSS, NodeJS.
+- Aprendiendo SQL.  
 - 📫  Mi correo electronico es : jorgeprograma96@gmail.com
